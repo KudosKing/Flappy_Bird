@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\Flappy Clone\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07f37abbdbb8dc3a3ddc223b09abc624f0ef7ea1">
+        <dex dex="C:\Android\Projects\Flappy Clone\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69e86525a29c2caa0df06a4e94f9246c536446e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\Flappy Clone\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Android\Projects\Flappy Clone\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3784324a7458d14d64de2dcd7a6bbf41c38b0a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vardaan Vashisth\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Android\Projects\Flappy Clone\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.6_3264a52b10986ea3731c85ec4342f9c650330219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vardaan Vashisth\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Android\Projects\Flappy Clone\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.6_6dea5bf6aeefb23856affcf7a837a00339d0249b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vardaan Vashisth\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Android\Projects\Flappy Clone\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.6_c392602eb514332b9701a8ee64edd0e85c17d9e1\classes.dex" />
+    </item>
+
+</items>

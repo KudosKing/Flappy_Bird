@@ -1,0 +1,10 @@
+#Tue Jul 18 19:48:59 IST 2017
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.2=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_c392602eb514332b9701a8ee64edd0e85c17d9e1
+base.1=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_6dea5bf6aeefb23856affcf7a837a00339d0249b
+base.0=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_3264a52b10986ea3731c85ec4342f9c650330219
+file.2=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_c392602eb514332b9701a8ee64edd0e85c17d9e1\\classes.dex
+file.1=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_6dea5bf6aeefb23856affcf7a837a00339d0249b\\classes.dex
+file.0=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_3264a52b10986ea3731c85ec4342f9c650330219\\classes.dex

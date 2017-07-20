@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Jul 18 20:20:40 IST 2017
+2.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug
+5.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug
+6.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ASSET
+4.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug
+7.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug\\above_tube.png
+7.set=ASSET
+count=8
+0.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ASSET
+6.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug\\bird_state1.png
+1.set=ASSET
+7.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug
+2.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug\\background.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug\\below_tube.png
+3.set=ASSET
+1.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug
+4.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug\\bird_state2.png
+0.set=ANDROID_RESOURCE
