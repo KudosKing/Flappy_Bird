@@ -1,4 +1,4 @@
-#Tue Jul 18 20:20:43 IST 2017
+#Sat Jul 22 10:32:09 IST 2017
 base.0=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69e86525a29c2caa0df06a4e94f9246c536446e2
 renamed.1=classes.dex
 renamed.0=classes2.dex

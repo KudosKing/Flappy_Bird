@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 18 20:20:40 IST 2017
+#Sat Jul 22 10:32:06 IST 2017
 2.base=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\assets\\debug
 5.file=C\:\\Android\\Projects\\Flappy Clone\\android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 5.set=ANDROID_RESOURCE
