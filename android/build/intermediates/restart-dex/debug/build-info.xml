@@ -6,33 +6,26 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1500706030530"
+    timestamp="1500791478724"
     token="-6541054807064917922"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="134" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="19" />
+        duration="0" />
     <task
         name="verifier"
-        duration="4" />
-
-    <artifact
-        location="C:\Android\Projects\Flappy Clone\android\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Android\Projects\Flappy Clone\android\build\outputs\apk\android-debug.apk"
-        type="SPLIT_MAIN" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1500702917627"
+        timestamp="1500785600582"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Android\Projects\Flappy Clone\android\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -73,15 +66,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1500705308970"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Android\Projects\Flappy Clone\android\build\outputs\apk\android-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1500706030530"
+        timestamp="1500791406657"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Android\Projects\Flappy Clone\android\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -90,5 +75,9 @@
             location="C:\Android\Projects\Flappy Clone\android\build\outputs\apk\android-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1500791478724"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
